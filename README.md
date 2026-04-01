@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0077B5,100:00D4FF&height=200&section=header&text=Yatin%20Thesiya&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+scalable+MERN+applications+%F0%9F%9A%80;Solving+complex+problems+with+DSA+%F0%9F%A7%A0;Turning+ideas+into+real-world+products+%F0%9F%92%A1;9.28+CGPA+%7C+GTU+Computer+Engineering+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+scalable+MERN+applications+%F0%9F%9A%80;Solving+complex+problems+with+DSA+%F0%9F%A7%A0;Turning+ideas+into+real-world+products+%F0%9F%92%A1;8.63+CGPA+%7C+GTU+Computer+Engineering+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 <br/>
 
