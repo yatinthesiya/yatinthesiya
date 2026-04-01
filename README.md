@@ -21,7 +21,7 @@
 * 🎓 3rd Year Computer Engineering Student  
 * 💻 Passionate about **Full Stack Web Development (MERN)**  
 * 📚 Strong foundation in **Data Structures & Algorithms**  
-* 🌱 Currently learning **Advanced MERN & Backend Optimization**  
+* 🌱 Currently learning ** MERN & Backend Optimization**  
 * 🎯 Goal: Become a **Top Software Developer**  
 
 ---
