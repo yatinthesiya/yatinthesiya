@@ -112,6 +112,17 @@ I'm always open to collaborating on exciting **Web Development** or **MERN Stack
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yatinthesiya)
 
 </div>
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yatinthesiya&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" width="90%" />
+
+</div>
+
+---
 
 ---
 
